@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunklsx"]=self["webpackChunklsx"]||[]).push([[443],{5399:function(n,s,t){t.r(s),t.d(s,{default:function(){return i}});var u=function(){var n=this;n._self._c;return n._m(0)},l=[function(){var n=this,s=n._self._c;return s("div",{staticClass:"about"},[s("h1",[n._v("This is an about page")])])}],e=t(1001),a={},r=(0,e.Z)(a,u,l,!1,null,null,null),i=r.exports}}]);
+//# sourceMappingURL=about.6f1f5458.js.map
